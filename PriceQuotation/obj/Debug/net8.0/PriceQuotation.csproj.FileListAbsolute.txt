@@ -1,0 +1,66 @@
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\appsettings.json
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.staticwebassets.runtime.json
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.exe
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.deps.json
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.runtimeconfig.json
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.dll
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.pdb
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.AssemblyInfoInputs.cache
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.AssemblyInfo.cs
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.csproj.CoreCompileInputs.cache
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.RazorAssemblyInfo.cache
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.RazorAssemblyInfo.cs
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.PriceQuotation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.build.PriceQuotation.props
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PriceQuotation.props
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PriceQuotation.props
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\scopedcss\bundle\PriceQuotation.styles.css
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\scopedcss\projectbundle\PriceQuotation.bundle.scp.css
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.dll
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\refint\PriceQuotation.dll
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.pdb
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.genruntimeconfig.cache
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\ref\PriceQuotation.dll
+C:\Users\xqu1\source\repos\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\libman.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\appsettings.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\libman.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.staticwebassets.runtime.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.staticwebassets.endpoints.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.exe
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.deps.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.runtimeconfig.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.dll
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\bin\Debug\net8.0\PriceQuotation.pdb
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.AssemblyInfoInputs.cache
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.AssemblyInfo.cs
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.csproj.CoreCompileInputs.cache
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.RazorAssemblyInfo.cache
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.RazorAssemblyInfo.cs
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\scopedcss\bundle\PriceQuotation.styles.css
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\scopedcss\projectbundle\PriceQuotation.bundle.scp.css
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.PriceQuotation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.PriceQuotation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.build.PriceQuotation.props
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PriceQuotation.props
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PriceQuotation.props
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.dll
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\refint\PriceQuotation.dll
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.pdb
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\PriceQuotation.genruntimeconfig.cache
+C:\Users\sampa\Downloads\enterprise web programming\Chp2PriceQuotation\Chp2PriceQuotation\PriceQuotation\obj\Debug\net8.0\ref\PriceQuotation.dll

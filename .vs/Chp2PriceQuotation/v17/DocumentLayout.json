@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\sampa\\downloads\\enterprise web programming\\chp2pricequotation\\chp2pricequotation\\pricequotation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0DD593B-DE5E-455C-8622-6DBF10B62B0A}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PriceQuotation\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PriceQuotation\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-03T03:37:51.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "PriceQuotation\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+              "RelativeToolTip": "PriceQuotation\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-02T03:39:23.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PriceQuotation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PriceQuotation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:37:17.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PriceQuotation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PriceQuotation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T20:37:17.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "favicon.ico",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "PriceQuotation\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\wwwroot\\favicon.ico",
+              "RelativeToolTip": "PriceQuotation\\wwwroot\\favicon.ico",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-01T20:37:17.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PriceQuotation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PriceQuotation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T20:37:17.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Quotation.cs",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Models\\Quotation.cs",
+              "RelativeDocumentMoniker": "PriceQuotation\\Models\\Quotation.cs",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Models\\Quotation.cs",
+              "RelativeToolTip": "PriceQuotation\\Models\\Quotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:37:17.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\libman.json",
+              "RelativeDocumentMoniker": "PriceQuotation\\libman.json",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\libman.json",
+              "RelativeToolTip": "PriceQuotation\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T20:37:17.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Program.cs",
+              "RelativeDocumentMoniker": "PriceQuotation\\Program.cs",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Program.cs",
+              "RelativeToolTip": "PriceQuotation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:37:17.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PriceQuotation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PriceQuotation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T20:37:17.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PriceQuotation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sampa\\Downloads\\enterprise web programming\\Chp2PriceQuotation\\Chp2PriceQuotation\\PriceQuotation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PriceQuotation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T20:37:17.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet"
+          href="~/lib/twitter-bootstrap/css/bootstrap.min.css" />
+    <script src="~/lib/popper.js/umd/popper.min.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet"
+          href="https://use.fontawesome.com/releases/v6.1.1/css/all.css"
+          integrity="sha-long-hash_code" crossorigin="anonymous">
+</head>
+<body>
+    @* <header class="bg-success text-center text-white p-4 container d-flex mx-5 mt-3  mb-5 rounded"> *@
+    @*     <h1 class="m-0 p-2"> *@
+    @*         <i class="fa-solid fa-money-bill-wave me-2"></i>Price Quotation *@
+    @*     </h1> *@
+    @* </header> *@
+
+    <header class="container mt-3">
+        <div class="bg-success text-white text-center p-4 rounded mx-2">
+            <h1 class="m-0">
+                <i class="fa-solid fa-money-bill-wave mx-2"></i>Price Quotation
+            </h1>
+        </div>
+    </header>
+    <main role="main" class="container">
+        @RenderBody()
+    </main>
+</body>

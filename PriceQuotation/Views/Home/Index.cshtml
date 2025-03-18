@@ -1,0 +1,45 @@
+﻿@model Quotation
+
+@{
+    ViewBag.Title = "Price Quotation";
+}
+<form asp-action="Index" method="post" class="container mt-3">
+    <div class="row mb-3">
+        <label asp-for="Subtotal" class="col-md-3 col-form-label">Subtotal:</label>
+        <div class="col-md-3">
+			<input asp-for="Subtotal" class="form-control" />
+        </div>
+		<span asp-validation-for="Subtotal" class="col-md-6 text-danger"></span>
+    </div>
+    <div class="row mb-3">
+        <label asp-for="DiscountPercent" class="col-md-3 col-form-label">Discount percent:</label>
+        <div class="col-md-3">
+            <input asp-for="DiscountPercent" class="form-control" />
+        </div>
+		<span asp-validation-for="DiscountPercent" class="col-md-6 text-danger"></span>
+    </div>
+    <div class="row mb-3">
+        <div class="col-md-3">
+            <label class="form-label">Discount amount:</label>
+        </div>
+        <div class="col-md-9">
+            <label>@ViewBag.Discount.ToString("c2")</label>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <div class="col-md-3">
+            <label class="form-label">Total:</label>
+		</div>
+        <div class="col-md-9">
+            <label>@ViewBag.Total.ToString("c2")</label>
+        </div>
+    </div>
+    <div class="row mb-3 mt-0">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+            <button type="submit" class="btn btn-success me-2">Calculate</button>
+            <a asp-action="Index" class="btn btn-success">Clear</a>
+        </div>
+    </div>
+</form>
+
